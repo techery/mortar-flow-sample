@@ -1,4 +1,6 @@
 ## What's this for?
+
+[![Join the chat at https://gitter.im/techery/presenta](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/techery/presenta?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Mortar and flow together provide a good way to follow MVP pattern and get rid of [lol-cycle with Fragments uglyness](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html).
 Nevertheless it adds some boilerplate to create a single Screen:
 
